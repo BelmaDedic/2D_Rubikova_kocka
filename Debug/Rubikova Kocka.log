@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Piric\Desktop\Fax\3. semestar\OOP\Projekat\Grupa5\Source.cpp(58,9): warning C4101: 'time': unreferenced local variable
+C:\Users\Piric\Desktop\Fax\3. semestar\OOP\Projekat\Grupa5\Source.cpp(60,32): warning C4101: 'elapsed_seconds': unreferenced local variable
+  Rubikova Kocka.vcxproj -> C:\Users\Piric\Desktop\Fax\3. semestar\OOP\Projekat\Grupa5\Debug\Rubikova Kocka.exe
